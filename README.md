@@ -16,6 +16,7 @@ pip install requirements.txt
 
 ## Usage
 To set an image you need to change `Image.open("images/dog.png")` to your desired file. Then you can run the program like so:
+
 **Python3**
 ```
 python3 ascii-img.py
